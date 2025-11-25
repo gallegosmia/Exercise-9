@@ -11,9 +11,9 @@ Option Explicit
 '    Modified   :
 '--------------------------------------------------------------------------------
 '</CSCC>
-Public ServerPath1             As String
+Public ServerPath             As String
 
-Public ReportPath2             As String
+Public ReportPath             As String
 
 'Public rxPayments             As New ADODB.Recordset
 '
